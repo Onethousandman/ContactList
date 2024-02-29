@@ -6,9 +6,9 @@
 //
 
 final class DataStore {
-    let name = ["Nikita", "Pavel", "Vadim", "Egor", "Viktor", "Sergey"]
-    let surname = ["Popov", "Tyschenko", "Valeev", "Ivanov", "Turbin", "Glinkin"]
-    let phone = [
+    let names = ["Nikita", "Pavel", "Vadim", "Egor", "Viktor", "Sergey"]
+    let surnames = ["Popov", "Tyschenko", "Valeev", "Ivanov", "Turbin", "Glinkin"]
+    let phones = [
         "+79653456787",
         "+79621234356",
         "+79679824587",
@@ -16,7 +16,7 @@ final class DataStore {
         "+79020009911",
         "+79721212322"
     ]
-    let email = [
+    let emails = [
         "gorgunf@gmail.com",
         "mom12@gmail.com",
         "bot@yandex.ru",
